@@ -4,6 +4,7 @@
 > **Author:** Yatish (`yatish-code26`)  
 > **Module Responsibility:** Student Management Module  
 > **System Scope:** Console-based, pure Java application without external frameworks or databases.
+> **Final Repo where all the code is there of each member and also pull request** https://github.com/thanav-badboy/Hostel-Management-System.git
 
 ---
 
