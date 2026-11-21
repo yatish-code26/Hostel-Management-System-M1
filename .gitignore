@@ -1,0 +1,15 @@
+# Byte-compiled / Object files
+*.class
+bin/
+out/
+target/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.DS_Store
+
+# Temporary files
+*.log
